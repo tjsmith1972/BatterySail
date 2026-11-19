@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "charge_limit": 80,
+  "sailing_range": 5,
+  "heat_pause_celsius": 38.0,
+  "heat_resume_celsius": 34.0,
+  "poll_seconds": 30,
+  "discharge_below": null,
+  "calibration": {
+    "enabled": false,
+    "every_days": 30
+  }
+}

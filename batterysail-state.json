@@ -1,0 +1,9 @@
+{
+  "percent": 97,
+  "is_charging": false,
+  "external_connected": true,
+  "temperature_c": 31.07,
+  "cycle_count": 483,
+  "ceiling": 75,
+  "updated_at": "2026-11-19T14:48:34.762803+00:00"
+}
